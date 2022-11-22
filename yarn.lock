@@ -6315,9 +6315,8 @@ json-stringify-safe@^5.0.1, json-stringify-safe@~5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
-"json-to-go@gist:0d0b8324131c80eeb7e1df20001be32f":
+"json-to-go@file:./modules/json-to-go":
   version "1.0.0"
-  resolved "https://gist.github.com/0d0b8324131c80eeb7e1df20001be32f.git#3c19dec6061daff466b13783fea94c49e4f62e86"
 
 json-to-zod@^1.1.2:
   version "1.1.2"
